@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-05-29T10:49:15.072852",
+  "version": "3.112",
+  "script_hash": "a60c2ee19b34",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i151567178",
+      "date": "2026-05-26",
+      "type": "Ride",
+      "name": "Sweet Spot: 2x10min @ 88-92% FTP (155-160W)",
+      "interval_summary": [
+        "1x 2m20s 164w",
+        "2x 87s 174w",
+        "1x 52s 178w",
+        "1x 3m8s 170w",
+        "1x 8m3s 173w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 796,
+          "avg_power": 104,
+          "max_power": 340,
+          "avg_hr": 115,
+          "max_hr": 125,
+          "avg_cadence": 84.38693,
+          "zone": 2,
+          "training_load": 10.261801,
+          "decoupling": -9.736624
+        },
+        {
+          "type": "WORK",
+          "label": "140s@164w96rpm",
+          "duration_secs": 140,
+          "avg_power": 164,
+          "max_power": 216,
+          "avg_hr": 127,
+          "max_hr": 133,
+          "avg_cadence": 95.99286,
+          "zone": 4,
+          "training_load": 3.8888888,
+          "decoupling": 6.4696937
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 112,
+          "avg_power": 139,
+          "max_power": 439,
+          "avg_hr": 131,
+          "max_hr": 135,
+          "avg_cadence": 79.77381,
+          "zone": 3,
+          "training_load": 2.52,
+          "decoupling": 15.276854
+        },
+        {
+          "type": "WORK",
+          "label": "87s@174w89rpm",
+          "duration_secs": 83,
+          "avg_power": 174,
+          "max_power": 203,
+          "avg_hr": 124,
+          "max_hr": 130,
+          "avg_cadence": 86.60241,
+          "zone": 5,
+          "training_load": 2.4222744,
+          "decoupling": -0.65140784
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 26,
+          "avg_power": 113,
+          "max_power": 194,
+          "avg_hr": 123,
+          "max_hr": 130,
+          "avg_cadence": 51.6,
+          "zone": 2,
+          "training_load": 0.6347656,
+          "decoupling": 8.481507
+        },
+        {
+          "type": "WORK",
+          "label": "52s@178w92rpm",
+          "duration_secs": 52,
+          "avg_power": 178,
+          "max_power": 233,
+          "avg_hr": 125,
+          "max_hr": 132,
+          "avg_cadence": 92.05769,
+          "zone": 5,
+          "training_load": 1.3907856,
+          "decoupling": 12.563963
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 41,
+          "avg_power": 146,
+          "max_power": 235,
+          "avg_hr": 129,
+          "max_hr": 133,
+          "avg_cadence": 72.902435,
+          "zone": 4,
+          "training_load": 1.0688205,
+          "decoupling": 2.2438133
+        },
+        {
+          "type": "WORK",
+          "label": "87s@174w89rpm",
+          "duration_secs": 90,
+          "avg_power": 173,
+          "max_power": 218,
+          "avg_hr": 133,
+          "max_hr": 136,
+          "avg_cadence": 91.22222,
+          "zone": 5,
+          "training_load": 2.9566407,
+          "decoupling": 7.402631
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 388,
+          "avg_power": 109,
+          "max_power": 228,
+          "avg_hr": 121,
+          "max_hr": 137,
+          "avg_cadence": 81.65753,
+          "zone": 2,
+          "training_load": 6.336582,
+          "decoupling": 12.349173
+        },
+        {
+          "type": "WORK",
+          "label": "188s@170w90rpm",
+          "duration_secs": 188,
+          "avg_power": 170,
+          "max_power": 241,
+          "avg_hr": 128,
+          "max_hr": 137,
+          "avg_cadence": 89.776596,
+          "zone": 5,
+          "training_load": 5.6212325,
+          "decoupling": 9.116252
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 9,
+          "avg_power": 76,
+          "max_power": 242,
+          "avg_hr": 130,
+          "max_hr": 135,
+          "avg_cadence": 28.444445,
+          "zone": 1,
+          "training_load": 0.21680664,
+          "decoupling": -25.079132
+        },
+        {
+          "type": "WORK",
+          "label": "483s@173w89rpm",
+          "duration_secs": 483,
+          "avg_power": 173,
+          "max_power": 239,
+          "avg_hr": 137,
+          "max_hr": 144,
+          "avg_cadence": 89.447205,
+          "zone": 5,
+          "training_load": 15.685446,
+          "decoupling": 2.1275604
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1451,
+          "avg_power": 117,
+          "max_power": 417,
+          "avg_hr": 117,
+          "max_hr": 143,
+          "avg_cadence": 79.5162,
+          "zone": 2,
+          "training_load": 23.051313,
+          "decoupling": -12.2815485
+        }
+      ]
+    },
+    {
+      "activity_id": "i151064561",
+      "date": "2026-05-24",
+      "type": "Ride",
+      "name": "Z2 Long Ride: 150 min bazy tlenowej. Nadrobienie obj\u0119to\u015bci z soboty. Spokojne tempo.",
+      "interval_summary": [
+        "1x 10s 308w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 10661,
+          "avg_power": 107,
+          "max_power": 356,
+          "avg_hr": 117,
+          "max_hr": 135,
+          "avg_cadence": 76.78007,
+          "zone": 2,
+          "training_load": 99.51048,
+          "decoupling": 7.4527693
+        },
+        {
+          "type": "WORK",
+          "label": "10s@308w89rpm",
+          "duration_secs": 10,
+          "avg_power": 308,
+          "max_power": 352,
+          "avg_hr": 129,
+          "max_hr": 132,
+          "avg_cadence": 88.7,
+          "zone": 7,
+          "training_load": 0.35679013,
+          "decoupling": -15.002632
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 25,
+          "avg_power": 71,
+          "max_power": 297,
+          "avg_hr": 128,
+          "max_hr": 132,
+          "avg_cadence": 45.96,
+          "zone": 1,
+          "training_load": 0.7575446,
+          "decoupling": 30.783981
+        }
+      ]
+    },
+    {
+      "activity_id": "i150859886",
+      "date": "2026-05-23",
+      "type": "Ride",
+      "name": "Endurance Ride: 120 min spokojnej bazy (Z2). Budowanie obj\u0119to\u015bci.",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5731,
+          "avg_power": 118,
+          "max_power": 540,
+          "avg_hr": 109,
+          "max_hr": 125,
+          "avg_cadence": 77.092804,
+          "zone": 2,
+          "training_load": 74.34886,
+          "decoupling": -0.5076836
+        }
+      ]
+    }
+  ]
+}
