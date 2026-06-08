@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:54:51.835550",
+  "generated_at": "2026-06-08T14:41:55.937883",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -179,54 +179,6 @@
           "zone": 2,
           "training_load": 23.051313,
           "decoupling": -12.2815485
-        }
-      ]
-    },
-    {
-      "activity_id": "i151064561",
-      "date": "2026-05-24",
-      "type": "Ride",
-      "name": "Z2 Long Ride: 150 min bazy tlenowej. Nadrobienie obj\u0119to\u015bci z soboty. Spokojne tempo.",
-      "interval_summary": [
-        "1x 10s 308w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 10661,
-          "avg_power": 107,
-          "max_power": 356,
-          "avg_hr": 117,
-          "max_hr": 135,
-          "avg_cadence": 76.78007,
-          "zone": 2,
-          "training_load": 99.51048,
-          "decoupling": 7.4527693
-        },
-        {
-          "type": "WORK",
-          "label": "10s@308w89rpm",
-          "duration_secs": 10,
-          "avg_power": 308,
-          "max_power": 352,
-          "avg_hr": 129,
-          "max_hr": 132,
-          "avg_cadence": 88.7,
-          "zone": 7,
-          "training_load": 0.35679013,
-          "decoupling": -15.002632
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 25,
-          "avg_power": 71,
-          "max_power": 297,
-          "avg_hr": 128,
-          "max_hr": 132,
-          "avg_cadence": 45.96,
-          "zone": 1,
-          "training_load": 0.7575446,
-          "decoupling": 30.783981
         }
       ]
     },
