@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T12:30:14.220430",
+  "generated_at": "2026-06-11T21:28:46.509326",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -769,6 +769,27 @@
           "zone": 2,
           "training_load": 3.1740716,
           "decoupling": 38.23108
+        }
+      ]
+    },
+    {
+      "activity_id": "i156461830",
+      "date": "2026-06-11",
+      "type": "Ride",
+      "name": "Endurance | 75min @ 115-131W (65-75% FTP)",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4359,
+          "avg_power": 126,
+          "max_power": 319,
+          "avg_hr": 113,
+          "max_hr": 129,
+          "avg_cadence": 82.509445,
+          "zone": 2,
+          "training_load": 62.228592,
+          "decoupling": 1.6034636
         }
       ]
     }
