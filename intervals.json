@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-08-11T23:58:56.089974",
+  "generated_at": "2026-08-12T02:30:52.436999",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i170163240",
-      "date": "2026-07-28",
-      "type": "Ride",
-      "name": "Z2 Easy Ride",
-      "interval_summary": [
-        "1x 1m47s 175w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1263,
-          "avg_power": 132,
-          "max_power": 400,
-          "avg_hr": 114,
-          "max_hr": 132,
-          "avg_cadence": 77.772484,
-          "zone": 2,
-          "training_load": 18.936295,
-          "decoupling": -0.32040796
-        },
-        {
-          "type": "WORK",
-          "label": "107s@175w95rpm",
-          "duration_secs": 107,
-          "avg_power": 175,
-          "max_power": 228,
-          "avg_hr": 133,
-          "max_hr": 137,
-          "avg_cadence": 95.45795,
-          "zone": 4,
-          "training_load": 2.6545775,
-          "decoupling": -0.9884065
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 220,
-          "avg_power": 119,
-          "max_power": 211,
-          "avg_hr": 126,
-          "max_hr": 137,
-          "avg_cadence": 82.05909,
-          "zone": 2,
-          "training_load": 3.3623657,
-          "decoupling": 10.022039
-        }
-      ]
-    },
     {
       "activity_id": "i170531539",
       "date": "2026-07-29",
